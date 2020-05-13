@@ -1,0 +1,6 @@
+
+
+001-VideoTutorial 1 del Curso de PHP POO
+https://www.youtube.com/watch?v=vyweNOQzRsM&list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ
+002-VideoTutorial 2 del Curso de PHP POO
+https://www.youtube.com/watch?v=vg8cGhAQ-DE&list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ&index=2
