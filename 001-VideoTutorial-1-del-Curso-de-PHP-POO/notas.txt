@@ -1,1 +1,19 @@
-notas.txt
+
+Programación Orientada a objetos 
+
+    • Clase 
+    • Atributo
+    • Métodos 
+    • Encapsular 
+
+
+Capas de abstracción 
+
+    • Clase 
+    • HTML
+      
+
+Comando para información sobre versión y otos detalles en php 
+
+// echo 'Current PHP version: ' . phpversion();
+// echo phpinfo();
