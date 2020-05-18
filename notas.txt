@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=vg8cGhAQ-DE&list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgB
 
 003-VideoTutorial-3-del-Curso-de-PHP-POO
 https://www.youtube.com/watch?v=AFNTYuSVSYc&list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ&index=3
+
+004-Video-Tutorial-4-del-Curso-de-PHP-POO
+https://www.youtube.com/watch?v=GlLXRcthvuc&list=PLbP-b3gf8hAVP2439cLz7QW2ZXUcgBRBZ&index=4
